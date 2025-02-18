@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 
-**Seantavious/Seantavious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently taking Mr.Jameson's IC3SU Comp. Science 
 - 🌱 How to code effectivly on Github
 - 👯 I’m looking to collaborate on creating games
